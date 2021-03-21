@@ -18,11 +18,11 @@
 
 ### nav
 
-- [unit-1](\#unit-1)
-- [unit-2](\#unit-2)
-- [unit-3](\#unit-3)
-- [unit-4](\#unit-4)
-- [unit-5](\#unit-5)
+- [unit-1](http://forw.cc?u=tyxiang#unit-1)
+- [unit-2](http://forw.cc?u=tyxiang#unit-2)
+- [unit-3](http://forw.cc?u=tyxiang#unit-3)
+- [unit-4](http://forw.cc?u=tyxiang#unit-4)
+- [unit-5](http://forw.cc?u=tyxiang#unit-5)
 
 ## footer
 
